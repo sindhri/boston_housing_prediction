@@ -1,9 +1,9 @@
 # Boston Housing Price prediction
-Use 14 features to predict Boston Housing Price, MLP with cross validation  
+Use 13 features to predict Boston Housing Price, MLP with cross validation  
 Credit: Deep Learning with Python by Jason Brownlee  
 Data source: https://raw.githubusercontent.com/jbrownlee/Datasets/master/housing.data
 
-Feature list:
+Feature list:  
 1.CRIM: per capita crime rate by town.  
 2.ZN: proportion of residential land zoned for lots over 25,000 sq.ft.  
 3.INDUS: proportion of non-retail business acres per town.  
